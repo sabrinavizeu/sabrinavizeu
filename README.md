@@ -1,8 +1,6 @@
-<h1 align="center">Oi, eu sou a Sabrina 👋</h1>
-
-<p align="center">
-  Desenvolvedora front-end | Matemática Computacional | ADS
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Sabrina+%F0%9F%98%8A;Dev+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing animation" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sabrinavizeu/">
@@ -12,26 +10,24 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### E aí, tudo bem?
 
-Sou estagiária de front-end na **Globo**, no time do **SGP** (o sistema que
-organiza a gravação das novelas da emissora) desde dezembro de 2024. No dia a
-dia, trabalho com **React** e **TypeScript**, construindo telas, corrigindo
-bugs e participando de code review em um monorepo de verdade, com tudo o que
-isso envolve: padrões de projeto, testes, acessibilidade e trabalho em time.
+Sou dev front-end movida por curiosidade. Foco e determinação são minhas
+marcas registradas: quando entro em algo, vou até o fim.
 
-Minha formação é em **Matemática Computacional** (UFF) e em **Análise e
-Desenvolvimento de Sistemas** (Estácio) — e atualmente curso **Ciência da
-Computação** (Anhanguera). Gosto de entender a causa raiz dos problemas antes
-de sair aplicando correção, mesmo que isso signifique investigar um pouco
-mais fundo.
+Hoje trabalho na **Globo**, no time do **SGP** — o sistema que roda por trás
+da gravação das novelas. É ali que construo telas e funcionalidades com **React** e **TypeScript**, resolvo os bugs que aparecem no caminho e tento sair de cada code review um pouco melhor do que entrei.
 
-🔭 **No momento, estou em busca de uma oportunidade como desenvolvedora
-front-end júnior**, de preferência remota — se você está contratando ou
-conhece alguém que está, me chama!
+Antes disso, me formei em **Matemática Computacional** (UFF) e em **Análise
+e Desenvolvimento de Sistemas** (Estácio) e agora tô cursando **Ciência
+da Computação** (Anhanguera), e já penso bastante em uma pós-graduação.
 
-🌱 Sempre estudando — assinante da [Rocketseat](https://www.rocketseat.com.br/)
-e sempre com algum curso ou projeto novo em andamento.
+🔭 **Tô de olho numa vaga de front-end júnior, remota de preferência** —
+se você tá contratando ou conhece alguém que tá, bora trocar uma ideia!
+
+🌱 Sempre em algum curso ou projeto novo — assinante da
+[Rocketseat](https://www.rocketseat.com.br/) e sem medo de sair da zona de
+conforto.
 
 ---
 
@@ -47,8 +43,8 @@ e sempre com algum curso ou projeto novo em andamento.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 </p>
 
-Também tenho contato com **React Native**, **TanStack Query/Router**,
-**Zustand**, **Zod** e testes com **Testing Library**.
+Também curto mexer com **React Native**, **TanStack Query/Router**,
+**Zustand**, **Zod** e testar as coisas direito com **Testing Library**.
 
 ---
 
@@ -63,15 +59,3 @@ Também tenho contato com **React Native**, **TanStack Query/Router**,
 ### 📫 Como me encontrar
 
 - LinkedIn: [in/sabrinavizeu](https://www.linkedin.com/in/sabrinavizeu/)
-
-<!--
-Dicas de preenchimento, pode apagar depois de ajustar:
-- Se quiser adicionar e-mail, troca a linha de contato por algo tipo:
-  - 📧 seuemail@exemplo.com
-- O widget de stats (github-readme-stats) só fica bom se os repositórios
-  tiverem commits/atividade recente — se ficar estranho, é só remover
-  o bloco "GitHub stats" inteiro.
-- Para trocar o tema do widget de stats, troca "theme=default" por outro,
-  por exemplo "theme=dracula" ou "theme=radical" (lista completa no
-  próprio projeto github-readme-stats no GitHub).
--->
